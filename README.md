@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pedrocarvalho86
+- 🌱 I'm an accountant and would like to improve my carreer
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me - contact@pedrocarvalho.me
