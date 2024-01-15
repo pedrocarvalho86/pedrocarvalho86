@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Pedro Carvalho
-- 🌱 I'm an accountant and would like to improve my carreer
+- 🌱 Currently working as a Youth Counselor at Norwegian Cruise Line
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me - contact@pedrocarvalho.me
